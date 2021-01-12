@@ -1,6 +1,7 @@
 @media screen {
   div.divFooter {
-    display: none;
+    font-size: 40px;
+    color: red;
   }
 }
 @media print {
