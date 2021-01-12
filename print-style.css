@@ -1,11 +1,5 @@
 @media screen {
   div.divFooter {
-    font-size: 40px;
-    color: red;
-  }
-}
-@media print {
-  div.divFooter {
     position: fixed;
     bottom: 0;
   }
