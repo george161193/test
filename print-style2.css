@@ -1,0 +1,9 @@
+@media screen {
+  div.divFooter {
+    display: none;
+  }
+}
+
+.main-section:not:first-child {
+  page-break-before: always;
+}
